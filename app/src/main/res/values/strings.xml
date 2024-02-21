@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DailyQuotesApp</string>
+    <string name="quotes1">You don\'t start out writing good stuff. You start out writing crap and thinking it\'s good stuff, and then gradually you get better at it. That\'s why I say one of the most valuable traits is persistence.</string>
+    <string name="quotes2">The lyf so short, the craft so long to lerne.</string>
+    <string name="quotes3">I wanted to be a writer, so I became one. How? I wrote things down.</string>
+    <string name="quotes4">The road to hell is paved with adverbs.</string>
+    <string name="quotes5">Brevity is the soul of wit.</string>
+    <string name="quotes6">There is a time for many words, and there is also a time for sleep.</string>
+    <string name="quotes7">Writing is really a way of thinking—not just feeling but thinking about things that are disparate, unresolved, mysterious, problematic or just sweet.</string>
+    <string name="quotes8">All art is a kind of confession, more or less oblique. All artists, if they are to survive, are forced, at last, to tell the whole story; to vomit the anguish up.</string>
+    <string name="quotes9">The act of writing requires a constant plunging back into the shadow of the past where time hovers ghostlike.</string>
+    <string name="quotes10">Fantasy is escapist, and that is its glory. If a soldier is imprisoned by the enemy, don\'t we consider it his duty to escape?. . .If we value the freedom of mind and soul, if we\'re partisans of liberty, then it\'s our plain duty to escape, and to take as many people with us as we can!</string>
+
+    <string name="author1">Octavia E. Butler</string>
+    <string name="author2">Geoffrey Chaucer</string>
+    <string name="author3">Ariel Gore</string>
+    <string name="author4">Stephen King</string>
+    <string name="author5">William Shakespeare</string>
+    <string name="author6">Homer</string>
+    <string name="author7">Toni Morrison</string>
+    <string name="author8">i</string>
+    <string name="author9">Ralph Ellison</string>
+    <string name="author10">J.R.R. Tolkien</string>
+</resources>
